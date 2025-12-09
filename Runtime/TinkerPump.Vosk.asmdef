@@ -1,0 +1,17 @@
+{
+    "name": "TinkerPump.Vosk",
+    "rootNamespace": "",
+    "references": [
+        "GUID:92e1f1300db3e504c970bd884323c57b",
+        "GUID:0b3eb8f23eebaa04e9b6114f9b7628c2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
