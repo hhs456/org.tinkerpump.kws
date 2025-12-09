@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinkerPump.Vosk", "TinkerPump.Vosk.csproj", "{EE7E9EF1-C955-204A-86C6-C8F24729D5EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bunny83.simpleJson", "Bunny83.simpleJson.csproj", "{E44D44BB-FAA2-28B9-D821-AD31C001B123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7E9EF1-C955-204A-86C6-C8F24729D5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7E9EF1-C955-204A-86C6-C8F24729D5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7E9EF1-C955-204A-86C6-C8F24729D5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7E9EF1-C955-204A-86C6-C8F24729D5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44D44BB-FAA2-28B9-D821-AD31C001B123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44D44BB-FAA2-28B9-D821-AD31C001B123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44D44BB-FAA2-28B9-D821-AD31C001B123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44D44BB-FAA2-28B9-D821-AD31C001B123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
